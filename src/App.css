@@ -1,0 +1,27 @@
+* {
+    font-family: "M PLUS Rounded 1c", sans-serif !important;
+}
+#sidebarh:hover{
+    background-color: rgb(255, 255, 255);
+}
+#Asidebarh{
+    color: white;
+}
+#Asidebarh:hover{
+    background-color: rgb(47, 255, 154);
+    color: black;
+}
+
+#request:hover{
+    color: rgb(47, 255, 154);
+}
+#complaint:hover{
+    color: rgb(47, 255, 154);
+
+}
+#eye{
+    color:rgb(47, 255, 154) ;
+}
+#eye:hover{
+    color:rgb(255, 47, 113) ;
+}
